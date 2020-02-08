@@ -1,0 +1,28 @@
+html, body{
+    background-color: black;
+}
+
+/* body{
+    position: relative;
+} */
+
+#space-jam{
+    color: white;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    /* position: absolute; */
+    
+    /* top: 50%;
+    left: 50%; */
+
+    /*margin: 222px 0 0 -250px;*/
+}
+
+#container{
+    border: 2px solid red;
+    height: 100%;
+    width: 60%;
+    margin: 0 auto;
+    padding: 0px;
+}
